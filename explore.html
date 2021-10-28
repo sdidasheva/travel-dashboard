@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <title>Explore</title>
+    <link rel="stylesheet" href="assets/styles/style.css">
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css"
+        integrity="sha384-wESLQ85D6gbsF459vf1CiZ2+rr+CsxRY0RpiF1tLlQpDnAgg6rwdsUF1+Ics2bni" crossorigin="anonymous">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+
+<body>
+    <header class="header">
+        <div class="topbar">
+            <div class="name">Shikra.</div>
+            <div class="search">
+                <label for="">
+                    <input type="text" placeholder="Search"><i class="fa fa-search" aria-hidden="true"></i>
+                </label>
+            </div>
+        </div>
+    </header>
+
+    <div class="navigation">
+        <ul>
+            <li>
+                <div class="toggle"></div>
+            </li>
+            <li>
+                <a href="index.html">
+                    <span class="icon"><i class="fa fa-home" aria-hidden="true"></i></span><br>
+                    <span class="title">Dashboard</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fa fa-calendar-o" aria-hidden="true"></i></span><br>
+                    <span class="title">Upcoming</span></a>
+            </li>
+            <li>
+                <a href="explore.html">
+                    <span class="icon"><i class="fa fa-compass" aria-hidden="true"></i></span><br>
+                    <span class="title">Explore</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fa fa-user-o" aria-hidden="true"></i></span><br>
+                    <span class="title">Profile</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fa fa-cog" aria-hidden="true"></i></span><br>
+                    <span class="title">Settings</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <div class="logout-icon">
+                        <span class="icon"><i class="fa fa-power-off" aria-hidden="true"></i></span><br>
+                        <span class="title">Logout</span>
+                    </div>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div id="map_block">
+        <div id="map_name">
+            <img id="map_icon" src="assets/images/compass.svg">
+            <h1 id="map_title">Explore</h1>
+        </div>
+        <div id="map_saveblock">
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="inputGroup-sizing-default">Type City</span>
+                </div>
+                <input id="pac-input" type="text" class="form-control" aria-label="Default"
+                    aria-describedby="inputGroup-sizing-default">
+            </div>
+            <button type="button" id="map_button" class="btn btn-secondary">Save</button>
+        </div>
+        <div id="map"></div>
+    </div>
+    <script src="explore.js"></script>
+    <script
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAQTVgf4vIlyPOVwhb5Kvb0ab_fDvLJS5Y&language=en&libraries=places&callback=initMap">
+    </script>
+    <script src="https://use.fontawesome.com/10ad9fff34.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="assets/styles/style.css">
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.3/css/fontawesome.min.css"
+        integrity="sha384-wESLQ85D6gbsF459vf1CiZ2+rr+CsxRY0RpiF1tLlQpDnAgg6rwdsUF1+Ics2bni" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+
+    <header class="header">
+        <div class="topbar">
+            <div class="name">Shikra.</div>
+            <div class="search">
+                <label for="">
+                    <input type="text" placeholder="Search"><i class="fa fa-search" aria-hidden="true"></i>
+                </label>
+            </div>
+        </div>
+    </header>
+
+    <div class="navigation">
+        <ul>
+            <li>
+                <div class="toggle"></div>
+            </li>
+            <li>
+                <a href="index.html">
+                    <span class="icon"><i class="fa fa-home fa-nav" aria-hidden="true"
+                            aria-pressed="true"></i></span><br>
+                    <span class="title">Dashboard</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fa fa-calendar-o fa-nav" aria-hidden="true"></i></span><br>
+                    <span class="title">Upcoming</span></a>
+            </li>
+            <li>
+                <a href="explore.html">
+                    <span class="icon"><i class="fa fa-compass fa-nav" aria-hidden="true"></i></span><br>
+                    <span class="title">Explore</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fa fa-user-o fa-nav" aria-hidden="true"></i></span><br>
+                    <span class="title">Profile</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <span class="icon"><i class="fa fa-cog fa-nav" aria-hidden="true"></i></span><br>
+                    <span class="title">Settings</span>
+                </a>
+            </li>
+            <li>
+                <a href="#">
+                    <div class="logout-icon" type="button" class="btn btn-primary" data-bs-toggle="modal"
+                        data-bs-target="#exampleModal">
+                        <span class="icon"><i class="fa fa-power-off fa-nav" aria-hidden="true"></i></span><br>
+                        <span class="title">Logout</span>
+
+                    </div>
+                </a>
+            </li>
+
+        </ul>
+    </div>
+
+    <section id="section_explore">
+        <h1 id="explore_title"> <i class="fa fa-compass fa-lg" id="explore_icon"></i>Explore
+            <button id="show" class="explore-btn btn-small">
+                <i class="fas fa-plus"></i> Add Country
+            </button>
+        </h1>
+
+        <div id="cards-container" class="cards">
+        </div>
+        <div id="add-container" class="add-container">
+            <h1 id='explore_title'>Add New Country
+                <button id="hide" class="explore-btn btn-small btn-ghost">
+                    <i class="fas fa-times"></i>
+                </button>
+            </h1>
+            <div class="form-group">
+                <label for="photo">Your favourite photo</label>
+                <input type="file" id="imageupload_button">
+                <img src="" id="card_image">
+            </div>
+            <div class="form-group">
+                <label for="countryName">Where you've been</label>
+                <textarea id="countryName" placeholder="I've been to..."></textarea>
+            </div>
+            <button id="add-card" class="explore-btn">
+                <i class="fas fa-plus"></i> Add Card
+            </button>
+        </div>
+    </section>
+
+    <!-- Friends -->
+
+    <div class="friends-block">
+        <span class="icon icon-heading"><i class="fa fa-users friends" aria-hidden="true"></i>Invite Friends</span>
+
+        <span class="icon icon-heading"><i class="fa fa-filter" aria-hidden="true"></i></span>
+
+        <div class="friends-profiles">
+
+            <div class="friend-info person1">
+                <img class="friend-img" src="assets/images/person1.svg"><br>
+                <div class="toollip">
+                    <h5> <b>Visited countries:</b></h5>
+                    <p>Spain,USA,Turkey</p>
+                </div>
+                <span class="friend-name">Nate</span><br>
+                <img class="round-button person1" src="assets/images/crest.svg">
+            </div>
+
+            <div class="friend-info person2">
+                <img class="friend-img" src="assets/images/person2.svg"><br>
+                <div class="toollip">
+                    <h5> <b>Visited countries:</b></h5>
+                    <p>Turkey</p>
+                </div>
+                <span class="friend-name">Jim</span><br>
+                <img class="round-button person2" src="assets/images/crest.svg">
+            </div>
+
+            <div class="friend-info person3">
+                <img class="friend-img" src="assets/images/person3.svg"><br>
+                <div class="toollip">
+                    <h5> <b>Visited countries:</b></h5>
+                    <p>UAE</p>
+                </div>
+                <span class="friend-name">Angela</span><br>
+                <img class="round-button person3" src="assets/images/Stroke.svg">
+            </div>
+
+            <div class="friend-info person4">
+                <img class="friend-img" src="assets/images/person4.svg"><br>
+                <div class="toollip">
+                    <h5> <b>Visited countries:</b></h5>
+                    <p>Spain</p>
+                </div>
+                <span class="friend-name">Bhaaji</span><br>
+                <img class="round-button person4" src="assets/images/+.svg">
+            </div>
+
+            <div class="friend-info person5">
+                <img class="friend-img" src="assets/images/person5.svg"><br>
+                <div class="toollip">
+                    <h5> <b>Visited countries:</b></h5>
+                    <p>France</p>
+                </div>
+                <span class="friend-name">Billo</span><br>
+                <img class="round-button person5" src="assets/images/+.svg">
+            </div>
+
+            <div class="friend-info person6">
+                <img class="friend-img" src="assets/images/person6.svg"><br>
+                <div class="toollip">
+                    <h5> <b>Visited countries:</b></h5>
+                    <p>USA</p>
+                </div>
+                <span class="friend-name">Alex</span><br>
+                <img class="round-button person6" src="assets/images/+.svg">
+            </div>
+        </div>
+    </div>
+
+    <div class="chart-container">
+        <span class="icon icon-heading"><i class="fa fa-map"></i>
+            Statistics
+        </span>
+        <div class="button-container">
+            <button type="button" class="btn btn-outline-warning btn-chart" aria-pressed="false"
+                autocomplete="off">Continents</button>
+            <button type="button" class="btn btn-outline-warning btn-chart" aria-pressed="false"
+                autocomplete="off">Countries</button>
+            <button type="button" class="btn btn-outline-warning btn-chart" aria-pressed="false"
+                autocomplete="off">Capital cities</button>
+        </div>
+
+
+
+
+
+
+
+
+        <div class="chartStatistics-container">
+            <canvas id="chartStatistics"></canvas>
+        </div>
+    </div>
+    <!--Profile block-->
+
+    <div class="profile_container">
+        <section class="profile_jessica">
+            <div class="profile">
+                <div class="profile_photo avatar"><img class="avatar__image" src="assets/images/jessica_mapleton.jpg"
+                        alt="Jessica Mapleton"></div>
+                <h2 id="p_name" class="profile_name "></h2>
+                <!-- <span id="name_user_span" name="name_user_span"></span>-->
+                <div id="p_city" class="profile_city "></div>
+                <a href="#" class="profile_following ">Following</a>
+                <a href="#" class="profile_followers ">Followers</a>
+                <div class="profile_following_number f_follow_number">2,1k</div>
+                <div class="profile_followers_number f_follow_number">945k</div>
+                <div class="profile_photogalerry">
+
+                    <div id="carouselExampleIndicators" class="carousel slide " data-bs-ride="carousel">
+                        <div class="carousel-indicators">
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0"
+                                class="active" aria-current="true" aria-label="Slide 1"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                                aria-label="Slide 2"></button>
+                            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                                aria-label="Slide 3"></button>
+                        </div>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <img src="assets/images/gallery/photogallery1.jpeg" class="d-block w-100 carousell "
+                                    alt="Photo">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="assets/images/gallery/photogallery2.jpg" class="d-block w-100 carousell "
+                                    alt="Photo">
+                            </div>
+                            <div class="carousel-item">
+                                <img src="assets/images/gallery/photogallery3.jpg" class="d-block w-100 carousell"
+                                    alt="Photo">
+                            </div>
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+                            data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Предыдущий</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+                            data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Следующий</span>
+                        </button>
+                    </div>
+
+
+                </div>
+
+                <div class="profile_place">
+                    <h1 class="fav_places_heading">Favourite places</h1>
+                    <ul class="fav_places">
+                        <li class="gradient_orange">Spain</li>
+                        <li class="gradient_yellow">Turkey</li>
+                        <li class="gradient_red">France</li>
+                        <li class="gradient_orange">USA</li>
+
+                    </ul>
+                </div>
+
+                <div class="profile_social ">
+                    <div class="social twitter">
+                        <a href="#" target="_blank"><i class="fa fa-twitter fa-2x fa-nav item_social"></i></a>
+                    </div>
+                    <div class="social instagram">
+                        <a href="#" target="_blank"><i class="fa fa-instagram fa-2x fa-nav item_social"></i></a>
+                    </div>
+                    <div class="social facebook">
+                        <a href="#" target="_blank"><i class="fa fa-facebook fa-2x fa-nav item_social"></i></a>
+                    </div>
+                    <!-- <div class="social vk">
+                        <a href="#" target="_blank"><i class="fa fa-vk fa-2x fa-nav item_social"></i></a>
+                    </div> -->
+
+                    <div class="social pinterest">
+                        <a href="#" target="_blank"><i class="fa fa-pinterest fa-2x item_social fa-nav"></i></a>
+                    </div>
+
+                    <div class="social telegram">
+                        <a href="#" target="_blank"><i class="fa fa-paper-plane fa-2x item_social fa-nav"></i></a>
+                    </div>
+
+                    <div class="social whatsapp">
+                        <a href="#" target="_blank"><i class="fa fa-whatsapp fa-2x fa-nav item_social"></i></a>
+                    </div>
+
+                </div>
+
+
+
+
+            </div>
+
+        </section>
+    </div>
+
+
+
+    <!--Modal -->
+    <form id="form_registr" >
+    <div class="modal fade " id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog form_css">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Hello!</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <label>Enter your name:</label>
+                    <input id="name_user"  name="name_"><br><br>
+                    <label>Enter your city:</label>
+                    <input id="city"  name="city_">
+                </div>
+                <div class="modal-footer">
+                    <button type="button"  data-bs-dismiss="modal" id="postButton" class="btn_css" >Save </button>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    </form>
+
+    <script src="https://use.fontawesome.com/10ad9fff34.js"></script>
+    <script src="bundle.js"></script>
+    <script src="countries.json"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
+    </script>
+</body>
+
+</html>

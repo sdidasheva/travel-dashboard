@@ -1,0 +1,1251 @@
+[{
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+}, {
+    "name": "Aland Islands",
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Albania",
+    "capital": "Tirana",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Algeria",
+    "capital": "Algiers",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+}, {
+    "name": "American Samoa",
+    "capital": "Pago Pago",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+}, {
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Angola",
+    "capital": "Luanda",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+}, {
+    "name": "Anguilla",
+    "capital": "The Valley",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Antarctica",
+    "capital": "",
+    "region": "Polar",
+    "subregion": ""
+}, {
+    "name": "Antigua And Barbuda",
+    "capital": "St. John's",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Armenia",
+    "capital": "Yerevan",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Aruba",
+    "capital": "Oranjestad",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+}, {
+    "name": "Austria",
+    "capital": "Vienna",
+    "region": "Europe",
+    "subregion": "Western Europe"
+}, {
+    "name": "Azerbaijan",
+    "capital": "Baku",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Bahamas The",
+    "capital": "Nassau",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Bahrain",
+    "capital": "Manama",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+}, {
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Belarus",
+    "capital": "Minsk",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "Belgium",
+    "capital": "Brussels",
+    "region": "Europe",
+    "subregion": "Western Europe"
+}, {
+    "name": "Belize",
+    "capital": "Belmopan",
+    "region": "Americas",
+    "subregion": "Central America"
+}, {
+    "name": "Benin",
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Bermuda",
+    "capital": "Hamilton",
+    "region": "Americas",
+    "subregion": "Northern America"
+}, {
+    "name": "Bhutan",
+    "capital": "Thimphu",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+}, {
+    "name": "Bolivia",
+    "capital": "Sucre",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "capital": "Kralendijk",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+}, {
+    "name": "Bouvet Island",
+    "capital": "",
+    "region": "",
+    "subregion": ""
+}, {
+    "name": "Brazil",
+    "capital": "Brasilia",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "British Indian Ocean Territory",
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Burundi",
+    "capital": "Bujumbura",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Cameroon",
+    "capital": "Yaounde",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+}, {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "region": "Americas",
+    "subregion": "Northern America"
+}, {
+    "name": "Cape Verde",
+    "capital": "Praia",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Cayman Islands",
+    "capital": "George Town",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Central African Republic",
+    "capital": "Bangui",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+}, {
+    "name": "Chad",
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+}, {
+    "name": "Chile",
+    "capital": "Santiago",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "China",
+    "capital": "Beijing",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+}, {
+    "name": "Christmas Island",
+    "capital": "Flying Fish Cove",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+}, {
+    "name": "Cocos (Keeling) Islands",
+    "capital": "West Island",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+}, {
+    "name": "Colombia",
+    "capital": "Bogota",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Comoros",
+    "capital": "Moroni",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Congo",
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+}, {
+    "name": "Cook Islands",
+    "capital": "Avarua",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+}, {
+    "name": "Costa Rica",
+    "capital": "San Jose",
+    "region": "Americas",
+    "subregion": "Central America"
+}, {
+    "name": "Cote D'Ivoire (Ivory Coast)",
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Cuba",
+    "capital": "Havana",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Curaçao",
+    "capital": "Willemstad",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Cyprus",
+    "capital": "Nicosia",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Czech Republic",
+    "capital": "Prague",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "Democratic Republic of the Congo",
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+}, {
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Djibouti",
+    "capital": "Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Dominica",
+    "capital": "Roseau",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "East Timor",
+    "capital": "Dili",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Ecuador",
+    "capital": "Quito",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Egypt",
+    "capital": "Cairo",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+}, {
+    "name": "El Salvador",
+    "capital": "San Salvador",
+    "region": "Americas",
+    "subregion": "Central America"
+}, {
+    "name": "Equatorial Guinea",
+    "capital": "Malabo",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+}, {
+    "name": "Eritrea",
+    "capital": "Asmara",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Falkland Islands",
+    "capital": "Stanley",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Faroe Islands",
+    "capital": "Torshavn",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Fiji Islands",
+    "capital": "Suva",
+    "region": "Oceania",
+    "subregion": "Melanesia"
+}, {
+    "name": "Finland",
+    "capital": "Helsinki",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "subregion": "Western Europe"
+}, {
+    "name": "French Guiana",
+    "capital": "Cayenne",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "French Polynesia",
+    "capital": "Papeete",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+}, {
+    "name": "French Southern Territories",
+    "capital": "Port-aux-Francais",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+}, {
+    "name": "Gabon",
+    "capital": "Libreville",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+}, {
+    "name": "Gambia The",
+    "capital": "Banjul",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Georgia",
+    "capital": "Tbilisi",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "subregion": "Western Europe"
+}, {
+    "name": "Ghana",
+    "capital": "Accra",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Gibraltar",
+    "capital": "Gibraltar",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Greece",
+    "capital": "Athens",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Greenland",
+    "capital": "Nuuk",
+    "region": "Americas",
+    "subregion": "Northern America"
+}, {
+    "name": "Grenada",
+    "capital": "St. George's",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Guadeloupe",
+    "capital": "Basse-Terre",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Guam",
+    "capital": "Hagatna",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+}, {
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "region": "Americas",
+    "subregion": "Central America"
+}, {
+    "name": "Guernsey and Alderney",
+    "capital": "St Peter Port",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Guinea",
+    "capital": "Conakry",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Guinea-Bissau",
+    "capital": "Bissau",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Heard Island and McDonald Islands",
+    "capital": "",
+    "region": "",
+    "subregion": ""
+}, {
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "region": "Americas",
+    "subregion": "Central America"
+}, {
+    "name": "Hong Kong S.A.R.",
+    "capital": "Hong Kong",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+}, {
+    "name": "Hungary",
+    "capital": "Budapest",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "Iceland",
+    "capital": "Reykjavik",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+}, {
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Iran",
+    "capital": "Tehran",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+}, {
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Ireland",
+    "capital": "Dublin",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Italy",
+    "capital": "Rome",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+}, {
+    "name": "Jersey",
+    "capital": "Saint Helier",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Jordan",
+    "capital": "Amman",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "region": "Asia",
+    "subregion": "Central Asia"
+}, {
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Kiribati",
+    "capital": "Tarawa",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+}, {
+    "name": "Kosovo",
+    "capital": "Pristina",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "region": "Asia",
+    "subregion": "Central Asia"
+}, {
+    "name": "Laos",
+    "capital": "Vientiane",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Latvia",
+    "capital": "Riga",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Lesotho",
+    "capital": "Maseru",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+}, {
+    "name": "Liberia",
+    "capital": "Monrovia",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Libya",
+    "capital": "Tripolis",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+}, {
+    "name": "Liechtenstein",
+    "capital": "Vaduz",
+    "region": "Europe",
+    "subregion": "Western Europe"
+}, {
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "region": "Europe",
+    "subregion": "Western Europe"
+}, {
+    "name": "Macau S.A.R.",
+    "capital": "Macao",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+}, {
+    "name": "Macedonia",
+    "capital": "Skopje",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Malawi",
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Maldives",
+    "capital": "Male",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+}, {
+    "name": "Mali",
+    "capital": "Bamako",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Malta",
+    "capital": "Valletta",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Man (Isle of)",
+    "capital": "Douglas, Isle of Man",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Marshall Islands",
+    "capital": "Majuro",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+}, {
+    "name": "Martinique",
+    "capital": "Fort-de-France",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Mauritania",
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Mauritius",
+    "capital": "Port Louis",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Mayotte",
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "region": "Americas",
+    "subregion": "Central America"
+}, {
+    "name": "Micronesia",
+    "capital": "Palikir",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+}, {
+    "name": "Moldova",
+    "capital": "Chisinau",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "Monaco",
+    "capital": "Monaco",
+    "region": "Europe",
+    "subregion": "Western Europe"
+}, {
+    "name": "Mongolia",
+    "capital": "Ulan Bator",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+}, {
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Montserrat",
+    "capital": "Plymouth",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Morocco",
+    "capital": "Rabat",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+}, {
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Myanmar",
+    "capital": "Nay Pyi Taw",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+}, {
+    "name": "Nauru",
+    "capital": "Yaren",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+}, {
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+}, {
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "subregion": "Western Europe"
+}, {
+    "name": "New Caledonia",
+    "capital": "Noumea",
+    "region": "Oceania",
+    "subregion": "Melanesia"
+}, {
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+}, {
+    "name": "Nicaragua",
+    "capital": "Managua",
+    "region": "Americas",
+    "subregion": "Central America"
+}, {
+    "name": "Niger",
+    "capital": "Niamey",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Niue",
+    "capital": "Alofi",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+}, {
+    "name": "Norfolk Island",
+    "capital": "Kingston",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand"
+}, {
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+}, {
+    "name": "Northern Mariana Islands",
+    "capital": "Saipan",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+}, {
+    "name": "Norway",
+    "capital": "Oslo",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Oman",
+    "capital": "Muscat",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+}, {
+    "name": "Palau",
+    "capital": "Melekeok",
+    "region": "Oceania",
+    "subregion": "Micronesia"
+}, {
+    "name": "Palestinian Territory Occupied",
+    "capital": "East Jerusalem",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Panama",
+    "capital": "Panama City",
+    "region": "Americas",
+    "subregion": "Central America"
+}, {
+    "name": "Papua new Guinea",
+    "capital": "Port Moresby",
+    "region": "Oceania",
+    "subregion": "Melanesia"
+}, {
+    "name": "Paraguay",
+    "capital": "Asuncion",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Peru",
+    "capital": "Lima",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Philippines",
+    "capital": "Manila",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Pitcairn Island",
+    "capital": "Adamstown",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+}, {
+    "name": "Poland",
+    "capital": "Warsaw",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Puerto Rico",
+    "capital": "San Juan",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Qatar",
+    "capital": "Doha",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Reunion",
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Romania",
+    "capital": "Bucharest",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "Russia",
+    "capital": "Moscow",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Saint Helena",
+    "capital": "Jamestown",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Saint Kitts And Nevis",
+    "capital": "Basseterre",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Saint Lucia",
+    "capital": "Castries",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Saint Pierre and Miquelon",
+    "capital": "Saint-Pierre",
+    "region": "Americas",
+    "subregion": "Northern America"
+}, {
+    "name": "Saint Vincent And The Grenadines",
+    "capital": "Kingstown",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Saint-Barthelemy",
+    "capital": "Gustavia",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Saint-Martin (French part)",
+    "capital": "Marigot",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Samoa",
+    "capital": "Apia",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+}, {
+    "name": "San Marino",
+    "capital": "San Marino",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Sao Tome and Principe",
+    "capital": "Sao Tome",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+}, {
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Senegal",
+    "capital": "Dakar",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Seychelles",
+    "capital": "Victoria",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Sierra Leone",
+    "capital": "Freetown",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Singapore",
+    "capital": "Singapur",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Sint Maarten (Dutch part)",
+    "capital": "Philipsburg",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Solomon Islands",
+    "capital": "Honiara",
+    "region": "Oceania",
+    "subregion": "Melanesia"
+}, {
+    "name": "Somalia",
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "South Africa",
+    "capital": "Pretoria",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+}, {
+    "name": "South Georgia",
+    "capital": "Grytviken",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "South Korea",
+    "capital": "Seoul",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+}, {
+    "name": "South Sudan",
+    "capital": "Juba",
+    "region": "Africa",
+    "subregion": "Middle Africa"
+}, {
+    "name": "Spain",
+    "capital": "Madrid",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Sri Lanka",
+    "capital": "Colombo",
+    "region": "Asia",
+    "subregion": "Southern Asia"
+}, {
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+}, {
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Svalbard And Jan Mayen Islands",
+    "capital": "Longyearbyen",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Swaziland",
+    "capital": "Mbabane",
+    "region": "Africa",
+    "subregion": "Southern Africa"
+}, {
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "Switzerland",
+    "capital": "Bern",
+    "region": "Europe",
+    "subregion": "Western Europe"
+}, {
+    "name": "Syria",
+    "capital": "Damascus",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Taiwan",
+    "capital": "Taipei",
+    "region": "Asia",
+    "subregion": "Eastern Asia"
+}, {
+    "name": "Tajikistan",
+    "capital": "Dushanbe",
+    "region": "Asia",
+    "subregion": "Central Asia"
+}, {
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Togo",
+    "capital": "Lome",
+    "region": "Africa",
+    "subregion": "Western Africa"
+}, {
+    "name": "Tokelau",
+    "capital": "",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+}, {
+    "name": "Tonga",
+    "capital": "Nuku'alofa",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+}, {
+    "name": "Trinidad And Tobago",
+    "capital": "Port of Spain",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+}, {
+    "name": "Turkey",
+    "capital": "Ankara",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Turkmenistan",
+    "capital": "Ashgabat",
+    "region": "Asia",
+    "subregion": "Central Asia"
+}, {
+    "name": "Turks And Caicos Islands",
+    "capital": "Cockburn Town",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Tuvalu",
+    "capital": "Funafuti",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+}, {
+    "name": "Uganda",
+    "capital": "Kampala",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Ukraine",
+    "capital": "Kiev",
+    "region": "Europe",
+    "subregion": "Eastern Europe"
+}, {
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "United Kingdom",
+    "capital": "London",
+    "region": "Europe",
+    "subregion": "Northern Europe"
+}, {
+    "name": "United States",
+    "capital": "Washington",
+    "region": "Americas",
+    "subregion": "Northern America"
+}, {
+    "name": "United States Minor Outlying Islands",
+    "capital": "",
+    "region": "Americas",
+    "subregion": "Northern America"
+}, {
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Uzbekistan",
+    "capital": "Tashkent",
+    "region": "Asia",
+    "subregion": "Central Asia"
+}, {
+    "name": "Vanuatu",
+    "capital": "Port Vila",
+    "region": "Oceania",
+    "subregion": "Melanesia"
+}, {
+    "name": "Vatican City State (Holy See)",
+    "capital": "Vatican City",
+    "region": "Europe",
+    "subregion": "Southern Europe"
+}, {
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "region": "Americas",
+    "subregion": "South America"
+}, {
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia"
+}, {
+    "name": "Virgin Islands (British)",
+    "capital": "Road Town",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Virgin Islands (US)",
+    "capital": "Charlotte Amalie",
+    "region": "Americas",
+    "subregion": "Caribbean"
+}, {
+    "name": "Wallis And Futuna Islands",
+    "capital": "Mata Utu",
+    "region": "Oceania",
+    "subregion": "Polynesia"
+}, {
+    "name": "Western Sahara",
+    "capital": "El-Aaiun",
+    "region": "Africa",
+    "subregion": "Northern Africa"
+}, {
+    "name": "Yemen",
+    "capital": "Sanaa",
+    "region": "Asia",
+    "subregion": "Western Asia"
+}, {
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}, {
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "region": "Africa",
+    "subregion": "Eastern Africa"
+}]
